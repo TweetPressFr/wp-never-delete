@@ -1,0 +1,15 @@
+{
+  "name"       : "jmau/wp-never-delete",
+  "description": "WordPress plugin that disable all kind of delete",
+  "type"       : "wordpress-plugin",
+  "license"    : "GPL-3.0+",
+  "authors"    : [
+    {
+      "name"    : "Julien Maury",
+      "homepage": "https://julien-maury.com/"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
